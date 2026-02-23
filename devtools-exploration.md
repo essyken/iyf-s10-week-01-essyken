@@ -1,22 +1,14 @@
 # Task 1.2: DevTools Exploration
 Website 1: https://www.valentinecakehouse.co.ke
 ## HTML tags used on the page
-<html>
-<head>
-<body>
-<div>
-<link>
-<script>
-<style>
-<noscript>
-<h2>
-<span>
-<a>
-<img>
-<p> 
-Page Title: Birthday & Wedding Cakes. Cakes for All Ocassion in your city
+- Html
+- Title
+- head
+- body
 
-Number of headings: Three
+Page Title: Example Domain
+
+Number of headings: One
 
 ----
 Website 2: https://developer.mozilla.org 
