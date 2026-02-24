@@ -23,7 +23,7 @@ This project involves use of Git and Github in developing a multi-page personal 
 ## Challenges Faced
 unable to push file in Vs code to github had to Git add them from the main repository.
 
-## Screenshots (optional)
+
 ![Screenshot description](path/to/screenshot.png)
 
 ## Live Demo (if deployed)
