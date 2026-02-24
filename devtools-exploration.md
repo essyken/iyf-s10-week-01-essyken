@@ -1,5 +1,5 @@
 # Task 1.2: DevTools Exploration
-Website 1: https://www.valentinecakehouse.co.ke
+Website 1: https://example.com
 ## HTML tags used on the page
 - Html
 - Title
